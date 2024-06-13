@@ -1,5 +1,7 @@
 # TrieSearchApp
 
+Implemented a search functionality using a Trie (prefix tree) data structure, enhancing the efficiency of search operations with fast insertion and lookup times. Tries support efficient prefix-based search, making them ideal for applications requiring real-time auto-completion and predictive text input. This method outperforms traditional search algorithms by allowing quick retrieval of all words sharing a common prefix, demonstrating superior performance and optimization.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
 
 ## Development server
